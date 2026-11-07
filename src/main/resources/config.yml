@@ -1,0 +1,6 @@
+# Player spawn cap: 2 active bots per player. Admins bypass this limit.
+player-max-bots: 2
+admin-max-per-command: 5
+bots: {}
+behavior: {}
+mode: {}
